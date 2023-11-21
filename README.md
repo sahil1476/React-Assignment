@@ -1,4 +1,7 @@
 # React-Assignment
+
+=>  VERCEL Deployment link : [https://react-assignment-blue.vercel.app/]
+
 My React  App
 This is a simple React  app that includes components for a header, user profile, and posts. 
 ========================================================================================================================
