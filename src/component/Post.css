@@ -1,0 +1,54 @@
+.top-btn {
+  border-bottom: none;
+  border-left: none;
+  color: blueviolet;
+  font-size: 30px;
+  font-weight: 500;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.post {
+  border-top: 1px solid #ccc; /* Only top border */
+  padding: 10px;
+  /* margin: 10px; */
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.like-sign {
+  font-size: 20px;
+}
+
+.post-description {
+  text-align: left;
+  justify-content: center;
+  margin-top: 10px;
+  font-size: 28px;
+}
+
+.post-footer {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-footer p {
+  margin: 0;
+}
+.author {
+  color: skyblue;
+  font-size: 25px;
+}
+
+.time-published {
+  color: grey;
+  font-size: 25px;
+}

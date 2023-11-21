@@ -1,0 +1,92 @@
+.upc {
+  max-width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+
+  border-radius: 4px;
+  padding-bottom: 20px;
+  background: white;
+  width: 100vw;
+}
+.gradient {
+  height: 150px;
+  /* width: 100vw; */
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 0px 0px 0px 0px;
+}
+.gradient img {
+  width: 100vw;
+  height: 350px;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 0px 0px 0px 0px;
+}
+.profile-down img {
+  height: 250px;
+  position: relative;
+  border-radius: 100px;
+  margin-top: 125px;
+
+  margin-left: 50px;
+  padding: 1px;
+  display: block;
+  background: brown;
+}
+span {
+  display: flex;
+}
+span div1,
+div2 {
+  color: gray;
+  padding: 10px;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 12px;
+}
+span div2 {
+  margin-left: 60px;
+}
+.profile-title {
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 170px;
+  margin-left: 35px;
+}
+.profile-title button {
+  font-size: 36px;
+  font-weight: 400;
+  margin-left: 13px;
+  border-radius: 12px;
+  border: 1px solid gray;
+  background-color: lightbrown;
+  color: grey;
+  padding: 10px 22px;
+  cursor: pointer;
+  width: auto;
+  transition: background-color 0.3s ease;
+}
+.profile-title button:hover {
+  background-color: #ffd700;
+}
+
+.profile-description {
+  padding: 10px;
+  font-size: 40px;
+  font-weight: 400;
+  margin-top: 30px;
+  margin-right: 800px;
+  margin-left: 40px;
+}
+.profile-description p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+.profile-description span {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem; /* Adjust the gap value as needed */
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
