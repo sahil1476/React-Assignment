@@ -2,6 +2,8 @@
 
 =>  VERCEL Deployment link : [https://react-assignment-blue.vercel.app/]
 
+
+
 My React  App
 This is a simple React  app that includes components for a header, user profile, and posts. 
 ========================================================================================================================
@@ -26,7 +28,9 @@ i have include some sample screen shot in the 'sample' folder where you can take
 i have made it on codeSandBox 
 link  code : [https://codesandbox.io/p/sandbox/distracted-jepsen-d6st6r?file=%2Fsrc%2Findex.js]
 
-webpage link : [https://3kg83m.csb.app/]          
+webpage link : [https://3kg83m.csb.app/]      
+
+ref. link for this project : [https://terriblytinytales.com/profile.jpeg]
 
 =========================================================================================================================
 ThankYou!!
